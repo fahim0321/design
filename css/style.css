@@ -1,0 +1,280 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background: violet;
+	width: 100%;
+	padding: 15px 0px;
+}
+.container{
+	width: 1140px;
+	
+	margin: 0px auto;
+}
+.logo{
+	width: 40%;
+	float: left;
+}
+.menu{
+	width: 60%;
+	float: left;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	margin: 0px 10px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+.banner-main{
+	width: 70%;
+	margin: 0px auto;
+	padding: 100px 200px;
+}
+.banner-main h2{
+text-align: center;
+color: whitesmoke;
+text-transform: uppercase;
+margin: 10px 0px;
+}
+.read-btn{
+	margin: 0px auto;
+	display: block;
+	background: black;
+	color: whitesmoke;
+	text-transform: uppercase;
+	font-size: 14;
+	box-shadow: 1 px 2px 4px brown;
+	padding: 15px 28px;
+}
+.services{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: skyblue;
+}
+.title{
+text-align: center;
+width: 50%;
+margin: 0px auto;
+
+
+}
+.title h2{
+
+}
+.title span{
+border-bottom: 3px black;
+display: block;
+margin: 5px auto;
+}
+.title p{
+padding: 10px 20px;
+
+}
+.Service-one{
+width: 20%;
+float: left;
+}
+.Service-one img{
+width: 60px;
+}
+.Service-one h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.Service-one p{
+	font-size: 10;
+	margin: 0px auto;
+}
+.Service-two{
+width: 20%;
+float: left;
+}
+.Service-two img{
+width: 60px;
+}
+.Service-two h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.Service-two p{
+	font-size: 10;
+	margin: 0px auto;
+}
+.Service-three{
+width: 20%;
+float: left;
+}
+.Service-three img{
+width: 60px;
+}
+.Service-three h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.Service-three p{
+	font-size: 10;
+	margin: 0px auto;
+}
+.Service-four{
+width: 20%;
+float: left;
+}
+.Service-four img{
+width: 60px;
+}
+.Service-four h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.Service-four p{
+	font-size: 10;
+	margin: 0px auto;
+}
+.team{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: seagreen;
+}
+.title{
+text-align: center;
+width: 50%;
+margin: 0px auto;
+
+
+}
+.title h2{
+
+}
+.title span{
+border-bottom: 3px black;
+display: block;
+margin: 5px auto;
+}
+.title p{
+color: ;
+}
+.team-one{
+width: 25%;
+float: left;
+}
+.team-one img{
+width: 60px;
+}
+.team-one h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.team-one p{
+	font-size: 10;
+}
+.team-two{
+width: 25%;
+float: left;
+}
+.team-two img{
+width: 60px;
+}
+.team-two h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.team-two p{
+	font-size: 10;
+}
+.team-three{
+width: 25%;
+float: left;
+}
+.team-three img{
+width: 60px;
+}
+.team-three h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.team-three p{
+	font-size: 10;
+}
+.team-four{
+width: 25%;
+float: left;
+}
+.team-four img{
+width: 60px;
+}
+.team-four h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.team-four p{
+	font-size: 10;
+}
+.skills{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: seagreen;
+}
+.title{
+text-align: center;
+width: 50%;
+margin: 0px auto;
+
+}
+.skill-one{
+width: 25%;
+float: left;
+}
+.skill-one img{
+width: 60px;
+}
+.skill-one h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+
+.skill-two{
+width: 25%;
+float: left;
+}
+.skill-two img{
+width: 60px;
+}
+.skill-two h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+
+.skill-three{
+width: 25%;
+float: left;
+}
+.skill-three img{
+width: 60px;
+}
+.skill-three h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+.skill-four{
+width: 25%;
+float: left;
+}
+.skill-four img{
+width: 60px;
+}
+.skill-four h2{
+	text-transform: uppercase;
+	font-size: 14;
+}
+
+
